@@ -1,7 +1,8 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif))
+![MasterHead](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU3NjUxMDAsIm5iZiI6MTcwNTc2NDgwMCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTIwVDE1MzMyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJmNGMzMjRjYmU5MDZhY2Q5MDdhYjczYmYzNDM1MmMzM2IzNjVkYzg3ZDM1NTE0MWJlODU3NGQ0ZmI5NmNmZTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.HsNF65OuH6U9H4GqMIf_f72NavthaYd8P53tvEOXE_8)
 
 <h1 align="center">Hi 👋, I'm Aditya Rajpurohit</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addyyr&label=Profile%20views&color=0e75b6&style=flat" alt="addyyr" /> </p>
 
